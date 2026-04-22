@@ -14,8 +14,7 @@ Fully typed with TypeScript, responsive layout
 
 <img width="1073" height="371" alt="Screenshot 2026-04-22 035807" src="https://github.com/user-attachments/assets/506b2a1b-4bf9-4915-8a3b-9365445c79ad" />
 
-📁 Project Structure
-trackr-dashboard/
+📁 trackr-dashboard/
 ├── index.html
 ├── package.json
 ├── vite.config.ts
