@@ -1,7 +1,7 @@
 # ltts-project1
 Here's your full Project/Task Tracking Dashboard.
-✅ Features included
 
+✅ Features included
 4 KPI cards — Total Tasks, Completed, Blocked, Overall Progress
 Sprint Burndown line chart (remaining vs completed)
 Sprint Velocity bar chart (story points per sprint)
